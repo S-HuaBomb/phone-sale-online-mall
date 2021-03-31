@@ -1,0 +1,27 @@
+{
+  "name": "phone-sale-online-mall",
+  "version": "1.0.0",
+  "description": "phone sale online mall",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-HuaBomb/phone-sale-online-mall.git"
+  },
+  "author": "Bang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-HuaBomb/phone-sale-online-mall/issues"
+  },
+  "homepage": "https://github.com/S-HuaBomb/phone-sale-online-mall#readme",
+  "dependencies": {
+    "vite": "^2.1.5",
+    "vue": "^2.6.12",
+    "vue-router": "^3.5.1"
+  }
+}
